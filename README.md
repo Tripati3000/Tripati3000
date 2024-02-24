@@ -27,7 +27,7 @@ To leverage my passion for technology and problem-solving skills in the field of
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<a href=""><img src="https://img.shields.io/badge/-GoogleCybersecurity-0072b1?&style=for-the-badge&logo=Google&logoColor=white" /></a>
+<a href="https://github.com/Tripati3000/Tripati3000/files/14391856/Coursera.WMTPR3J8N4RY.pdf "><img src="https://img.shields.io/badge/-GoogleCybersecurity-0072b1?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://replit.com/@situjani1932"><img src="https://img.shields.io/badge/-Python-007ACC?&style=for-the-badge&logo=Python&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-Cybersecurity-4D4D4D?&style=for-the-badge&logo=TheLinuxfoundation &logoColor=white" />
 <a href=""><img src="https://img.shields.io/badge/-Linux-006400?&style=for-the-badge&logo=linux&logoColor=white" /></a>
