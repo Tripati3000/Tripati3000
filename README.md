@@ -10,7 +10,7 @@ To leverage my passion for technology and problem-solving skills in the field of
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Building a simple SIEM lab.         | <a href="https://github.com/Tripati3000/SIEM-system">Detection Lab</a>|
+| Building a simple SIEM lab.         | <a href="https://github.com/Tripati3000/SIEM-system">Compeleted Lab work</a>|
 | Buliding a SSH honeypot with python          | In process Lab work|
 | Malware Analysis lab                          | In process Lab work|
 | Vulnerability Management lab.                 | In process Lab work|
@@ -25,7 +25,6 @@ To leverage my passion for technology and problem-solving skills in the field of
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://github.com/Tripati3000/Tripati3000/files/14391856/Coursera.WMTPR3J8N4RY.pdf "><img src="https://img.shields.io/badge/-GoogleCybersecurity-0072b1?&style=for-the-badge&logo=Google&logoColor=white" /></a>
 <a href="https://github.com/Tripati3000/Tripati3000/files/14391868/PythonforBeginnerswi.png-4.pdf"><img src="https://img.shields.io/badge/-Python-007ACC?&style=for-the-badge&logo=Python&logoColor=white" /></a>
