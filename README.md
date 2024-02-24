@@ -22,9 +22,9 @@ To leverage my passion for technology and problem-solving skills in the field of
 
 ### Connect with me
 <div>
-    <img src="https://img.shields.io/badge/-Replit-1679A7?&style=for-the-badge&logo=Replit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Twitter-EF3B2D?&style=for-the-badge&logo=Twitter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-HacktheBox-777BB4?&style=for-the-badge&logo=Hackthebox&logoColor=white" />
+    <a href="https://replit.com/@situjani1932"><img src="https://img.shields.io/badge/-Replit-0072b1?&style=for-the-badge&logo=Replit&logoColor=white" /></a>
+    <a href="https://twitter.com/Tripatijani3000"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+    <a href="https://www.hackthebox.com/home/users/profile/1841018"><img src="https://img.shields.io/badge/-Hackthebox-9cf?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
 </div>
 
 ## Certifications
