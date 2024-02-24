@@ -1,7 +1,7 @@
 # Hello, I'm Tripati Jani
 <a href="https://www.linkedin.com/in/tripati-jani-b100192a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Recent BCA graduate with a passion for technology and a knack for problem-solving. Dedicated to honing my skills in the tech field and tackling challenges head-on.
+Recent BCA undergraduate with a passion for technology and a knack for problem-solving. Dedicated to honing my skills in the tech field and tackling challenges head-on.
 
 ## Objective
 To leverage my passion for technology and problem-solving skills in the field of cybersecurity, where I can contribute to safeguarding digital assets, combating cyber threats, and continuously expanding my knowledge in this dynamic and crucial area of IT security.
