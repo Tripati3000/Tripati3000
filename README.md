@@ -31,10 +31,9 @@ To leverage my passion for technology and problem-solving skills in the field of
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-GoogleCybersecurity-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-007ACC?&style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cybersecurity-4D4D4D?&style=for-the-badge&logo=TheLinuxfoundation &logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-006400?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 
