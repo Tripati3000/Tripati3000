@@ -17,9 +17,6 @@ To leverage my passion for technology and problem-solving skills in the field of
 | Bulding a Simple REST API                     | In process Lab work|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Connect with me
 <div>
     <a href="https://replit.com/@situjani1932"><img src="https://img.shields.io/badge/-Replit-0072b1?&style=for-the-badge&logo=Replit&logoColor=white" /></a>
