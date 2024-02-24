@@ -1,21 +1,17 @@
 # Hello, I'm Tripati Jani
 <a href="https://www.linkedin.com/in/tripati-jani-b100192a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Recent BCA graduate with a passion for technology and a knack for problem-solving. Dedicated to honing my skills in the tech field and tackling challenges head-on.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To leverage my passion for technology and problem-solving skills in the field of cybersecurity, where I can contribute to safeguarding digital assets, combating cyber threats, and continuously expanding my knowledge in this dynamic and crucial area of IT security.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Building a simple SIEM lab.         | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
