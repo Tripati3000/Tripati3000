@@ -11,7 +11,7 @@ To leverage my passion for technology and problem-solving skills in the field of
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Building a simple SIEM lab.         | <a href="https://github.com/Tripati3000/SIEM-system">Compeleted Lab work</a>|
-| Buliding a SSH honeypot             | <a href="https://github.com/Tripati3000/SIEM-system">Compeleted Lab work</a>| 
+| Buliding a SSH honeypot             | <a href="https://github.com/Tripati3000/ssh-honeypotlab">Compeleted Lab work</a>| 
 | Malware Analysis lab                          | In process Lab work|
 | Vulnerability Management lab.                 | In process Lab work|
 | Bulding a Simple REST API                     | In process Lab work|
