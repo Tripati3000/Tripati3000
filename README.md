@@ -32,7 +32,7 @@ To leverage my passion for technology and problem-solving skills in the field of
 <a href="https://github.com/Tripati3000/Tripati3000/files/14518122/SPlUNK.25.pdf"><img src="https://img.shields.io/badge/-Splunk-006400?&style=for-the-badge&logo=Splunk&logoColor=white\" /></a>
 <a href="https://github.com/Tripati3000/Tripati3000/files/14518182/GCP.1.pdf">
   <img src="https://img.shields.io/badge/-GCP-FFA500?&style=for-the-badge&logo=GoogleCloud&logoColor=white" /></a>
-<a href="https://github.com/Tripati3000/Tripati3000/files/14518122/SPlUNK.25.pdf">
+<a href="https://github.com/Tripati3000/Tripati3000/files/14518261/OSEP.sharpen.pdf">
   <img src="https://img.shields.io/badge/-PenetrationTester-FFA07A?&style=for-the-badge&logo=OffSec&logoColor=white" />
 </a>
 
