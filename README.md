@@ -1,3 +1,4 @@
+
 # Hello, I'm Tripati Jani
 <a href="https://www.linkedin.com/in/tripati-jani-b100192a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -28,6 +29,6 @@ To leverage my passion for technology and problem-solving skills in the field of
 <a href="https://github.com/Tripati3000/Tripati3000/files/14391868/PythonforBeginnerswi.png-4.pdf"><img src="https://img.shields.io/badge/-Python-007ACC?&style=for-the-badge&logo=Python&logoColor=white" /></a>
 <a href="https://github.com/Tripati3000/Tripati3000/files/14391875/situjani-1932-41208098-4881-40c5-bfa7-1acaf8627635-certificate.1.pdf"><img src="https://img.shields.io/badge/-CybersecurityBasics-4D4D4D?&style=for-the-badge&logo=TheLinuxfoundation&logoColor=white" /></a>
 <a href="https://github.com/Tripati3000/Tripati3000/files/14391884/Tripati.jani.pdf"><img src="https://img.shields.io/badge/-Linux-006400?&style=for-the-badge&logo=linux&logoColor=white" /></a>
-<a href="https://github.com/Tripati3000/Tripati3000/files/14391884/Tripati.jani.pdf\"><img src="https://img.shields.io/badge/-Splunk-006400?&style=for-the-badge&logo=Splunk&logoColor=white\" /></a>
+<a href="https://github.com/Tripati3000/Tripati3000/files/14518122/SPlUNK.25.pdf"><img src="https://img.shields.io/badge/-Splunk-006400?&style=for-the-badge&logo=Splunk&logoColor=white\" /></a>
 
 
