@@ -1,5 +1,5 @@
 
-# Hello, I'm Tripati Jani
+# Hii!!, Tripati is here🪄
 <a href="https://www.linkedin.com/in/tripati-jani-b100192a7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Recent BCA undergraduate with a passion for technology and a knack for problem-solving. Dedicated to honing my skills in the tech field and tackling challenges head-on.
