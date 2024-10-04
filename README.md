@@ -7,7 +7,7 @@ Recent BCA undergraduate with a passion for technology and a knack for problem-s
 ## Objective
 To leverage my passion for technology and problem-solving skills in the field of cybersecurity, where I can contribute to safeguarding digital assets, combating cyber threats, and continuously expanding my knowledge in this dynamic and crucial area of IT security.
 
-## Wizhood Ventures 🧞‍♂️
+## Wizardo Ventures 🧞‍♂️
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
